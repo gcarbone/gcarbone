@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My Resume on Google Docs - https://docs.google.com/document/d/1RxlNorxAlzMmgPPekcCG7aUc1W_1UeqJEZO5dU-Vah0/
+
 <!--
 **gcarbone/gcarbone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
